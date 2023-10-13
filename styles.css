@@ -87,8 +87,8 @@ footer {
 
 hr {
     width: 10%;
-    border-color: grey;
-    border-style: dotted;
+    border-color: rgb(34, 0, 255);
+    border-style: dashed;
     border-width: 5px;
     border-top: 0;
     border-left: 0;
